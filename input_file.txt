@@ -1,0 +1,5 @@
+mv a4, a3
+add x1, x2, x0
+sub x3, x2, x0
+li t0, 1
+j code_end
